@@ -6,4 +6,4 @@ source .venv/bin/activate MacOS
 
 pip install colorama
 
-pip freeze > requrements.txt
+pip freeze > requirements.txt

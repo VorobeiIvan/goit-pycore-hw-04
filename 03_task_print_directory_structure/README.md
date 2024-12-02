@@ -8,4 +8,4 @@ pip install colorama
 cd 03_task
 python main.py .
 
-pip freeze > requrements.txt
+pip freeze > requirements.txt
